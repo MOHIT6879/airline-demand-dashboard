@@ -89,7 +89,7 @@ Recent peak flight dates
 ![Flight Time Chart](ScreenShots/bar.png)
 
 ✅ **AI-generated Trend Summary and Download CSV**  
-![AI Summary](ScreenShots/ai_summary.png)
+![AI Summary](https://github.com/MOHIT6879/airline-demand-dashboard/blob/7812aa068982ac752f9f4cc63ab6862a788075b9/ai_summary.png)
 
 ✅ **Full Flight Table**  
 ![Flight Table](ScreenShots/full_table.png)
