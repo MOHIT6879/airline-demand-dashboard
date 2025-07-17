@@ -37,7 +37,6 @@ airline-demand-app/
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/airline-demand-dashboard.git
@@ -84,13 +83,13 @@ Recent peak flight dates
 💾 Sample Output Screens
 
 ✅ **Top Routes Bar Chart**  
-![Top Routes](screenshots/top_routes.png)
+![Top Routes](ScreenShots/top_routes.png)
 
 ✅ **Most Frequent Routes**  
-![Flight Time Chart](screenshots/bar.png)
+![Flight Time Chart](ScreenShots/bar.png)
 
 ✅ **AI-generated Trend Summary and Download CSV**  
-![AI Summary](screenshots/ai_summary.png)
+![AI Summary](ScreenShots/ai_summary.png)
 
 ✅ **Full Flight Table**  
-![Flight Table](screenshots/full_table.png)
+![Flight Table](ScreenShots/full_table.png)
