@@ -80,16 +80,3 @@ Recent peak flight dates
 
 ⚠️ First-time usage downloads the model from Hugging Face once, then cache locally.
 
-💾 Sample Output Screens
-
-✅ **Top Routes Bar Chart**  
-![Top Routes](https://github.com/MOHIT6879/airline-demand-dashboard/blob/main/ScreenShots/ai_summary.png?raw=true)
-
-✅ **Most Frequent Routes**  
-![Flight Time Chart](ScreenShots/bar.png)
-
-✅ **AI-generated Trend Summary and Download CSV**  
-![AI Summary](https://github.com/MOHIT6879/airline-demand-dashboard/blob/7812aa068982ac752f9f4cc63ab6862a788075b9/ai_summary.png)
-
-✅ **Full Flight Table**  
-![Flight Table](ScreenShots/full_table.png)
