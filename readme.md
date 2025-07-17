@@ -83,7 +83,7 @@ Recent peak flight dates
 💾 Sample Output Screens
 
 ✅ **Top Routes Bar Chart**  
-![Top Routes](ScreenShots/top_routes.png)
+![Top Routes](https://github.com/MOHIT6879/airline-demand-dashboard/blob/main/ScreenShots/ai_summary.png?raw=true)
 
 ✅ **Most Frequent Routes**  
 ![Flight Time Chart](ScreenShots/bar.png)
