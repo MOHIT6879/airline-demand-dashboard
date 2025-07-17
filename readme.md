@@ -80,3 +80,5 @@ Recent peak flight dates
 
 ⚠️ First-time usage downloads the model from Hugging Face once, then cache locally.
 
+Tip : If you want to add more emojis use windows Key + . 😉 
+
